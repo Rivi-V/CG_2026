@@ -1,0 +1,15 @@
+build-debug/
+
+# CMake build
+build-debug/
+
+# Generated shaders
+shaders/*.spv
+
+# ImGui settings
+imgui.ini
+
+# Backups
+*.bak
+*.grade3-backup
+*.docx
