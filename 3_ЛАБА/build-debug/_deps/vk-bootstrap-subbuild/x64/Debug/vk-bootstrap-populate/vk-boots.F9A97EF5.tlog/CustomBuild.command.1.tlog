@@ -1,0 +1,150 @@
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\DC9AFBB1C76E3D0406E4893EBE62DCCE\VK-BOOTSTRAP-POPULATE-MKDIR.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/tmp/vk-bootstrap-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/Debug/vk-bootstrap-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\DC9AFBB1C76E3D0406E4893EBE62DCCE\VK-BOOTSTRAP-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/tmp/vk-bootstrap-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/Debug/vk-bootstrap-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\DC9AFBB1C76E3D0406E4893EBE62DCCE\VK-BOOTSTRAP-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vk-bootstrap-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/tmp/vk-bootstrap-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\DC9AFBB1C76E3D0406E4893EBE62DCCE\VK-BOOTSTRAP-POPULATE-PATCH.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/Debug/vk-bootstrap-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\DC9AFBB1C76E3D0406E4893EBE62DCCE\VK-BOOTSTRAP-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vk-bootstrap-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/Debug/vk-bootstrap-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\DC9AFBB1C76E3D0406E4893EBE62DCCE\VK-BOOTSTRAP-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vk-bootstrap-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/Debug/vk-bootstrap-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\DC9AFBB1C76E3D0406E4893EBE62DCCE\VK-BOOTSTRAP-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vk-bootstrap-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/Debug/vk-bootstrap-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\DC9AFBB1C76E3D0406E4893EBE62DCCE\VK-BOOTSTRAP-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vk-bootstrap-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/Debug/vk-bootstrap-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\550538BE1AE8C40D36A40830C877E9D1\VK-BOOTSTRAP-POPULATE-COMPLETE.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/Debug/vk-bootstrap-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/Debug/vk-bootstrap-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\A30F1C54420A64AA96FE1201CB861EB5\VK-BOOTSTRAP-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SC:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild -BC:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild --check-stamp-file C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

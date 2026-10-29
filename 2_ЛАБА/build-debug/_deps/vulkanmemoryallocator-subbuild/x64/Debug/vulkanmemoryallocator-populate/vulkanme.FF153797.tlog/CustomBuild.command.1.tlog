@@ -1,0 +1,150 @@
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\1F458EA6281190C4B77E108FEDA66232\VULKANMEMORYALLOCATOR-POPULATE-MKDIR.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/tmp/vulkanmemoryallocator-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/Debug/vulkanmemoryallocator-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\1F458EA6281190C4B77E108FEDA66232\VULKANMEMORYALLOCATOR-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/tmp/vulkanmemoryallocator-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/Debug/vulkanmemoryallocator-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\1F458EA6281190C4B77E108FEDA66232\VULKANMEMORYALLOCATOR-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps\vulkanmemoryallocator-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/tmp/vulkanmemoryallocator-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\1F458EA6281190C4B77E108FEDA66232\VULKANMEMORYALLOCATOR-POPULATE-PATCH.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/Debug/vulkanmemoryallocator-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\1F458EA6281190C4B77E108FEDA66232\VULKANMEMORYALLOCATOR-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps\vulkanmemoryallocator-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/Debug/vulkanmemoryallocator-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\1F458EA6281190C4B77E108FEDA66232\VULKANMEMORYALLOCATOR-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps\vulkanmemoryallocator-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/Debug/vulkanmemoryallocator-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\1F458EA6281190C4B77E108FEDA66232\VULKANMEMORYALLOCATOR-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps\vulkanmemoryallocator-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/Debug/vulkanmemoryallocator-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\1F458EA6281190C4B77E108FEDA66232\VULKANMEMORYALLOCATOR-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps\vulkanmemoryallocator-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/Debug/vulkanmemoryallocator-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\5B3B570DDA4AD240282DE3172CCC9C29\VULKANMEMORYALLOCATOR-POPULATE-COMPLETE.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/Debug/vulkanmemoryallocator-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate-prefix/src/vulkanmemoryallocator-populate-stamp/Debug/vulkanmemoryallocator-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\C11AD7E9F15436D7A9D0FB6EBA2D0244\VULKANMEMORYALLOCATOR-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SC:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild -BC:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild --check-stamp-file C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

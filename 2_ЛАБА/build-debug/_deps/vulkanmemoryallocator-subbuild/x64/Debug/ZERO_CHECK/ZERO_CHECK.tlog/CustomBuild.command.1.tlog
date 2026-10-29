@@ -1,0 +1,10 @@
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\VULKANMEMORYALLOCATOR-SUBBUILD\CMAKEFILES\C11AD7E9F15436D7A9D0FB6EBA2D0244\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SC:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild -BC:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-subbuild/vulkanmemoryallocator-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

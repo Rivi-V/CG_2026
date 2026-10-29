@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/glfw-src/CMake/cmake_uninstall.cmake.in
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/glfw-src/CMake/glfw3Config.cmake.in
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/glfw-src/CMakeLists.txt
+D:/Program Files/CMake/share/cmake-4.4/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+D:/Program Files/CMake/share/cmake-4.4/Modules/CMakeDependentOption.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/CMakePackageConfigHelpers.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/CheckCSourceCompiles.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/CheckIncludeFile.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/CheckLibraryExists.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/FindPackageHandleStandardArgs.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/FindPackageMessage.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/FindThreads.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/GNUInstallDirs.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Internal/CheckCommon.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Internal/CheckSourceCompiles.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/WriteBasicConfigVersionFile.cmake

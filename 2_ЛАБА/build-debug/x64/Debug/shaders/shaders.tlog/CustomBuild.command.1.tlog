@@ -1,0 +1,38 @@
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\CMAKEFILES\892344639CD5F65AFC0080B55FF19186\CONE.FRAG.SPV.RULE
+setlocal
+glslc C:/Users/F8902/kg/2_ЛАБА/shaders/cone.frag -o C:/Users/F8902/kg/2_ЛАБА/shaders/cone.frag.spv
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\CMAKEFILES\892344639CD5F65AFC0080B55FF19186\CONE.VERT.SPV.RULE
+setlocal
+glslc C:/Users/F8902/kg/2_ЛАБА/shaders/cone.vert -o C:/Users/F8902/kg/2_ЛАБА/shaders/cone.vert.spv
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\CMAKEFILES\24C115A2A6D684776A4306F7625DF29B\SHADERS.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SC:/Users/F8902/kg/2_ЛАБА -BC:/Users/F8902/kg/2_ЛАБА/build-debug --check-stamp-file C:/Users/F8902/kg/2_ЛАБА/build-debug/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

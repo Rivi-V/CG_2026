@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vk-bootstrap-subbuild\CMakeFiles\a30f1c54420a64aa96fe1201cb861eb5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A3285A5A-0587-33DE-BE7D-EAAE97A1147E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

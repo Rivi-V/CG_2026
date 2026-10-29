@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/03769ac05dff124c0462097dc296b153/glfw-populate.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/2c98c6296f7a7a1153e4a36c156dc522/glfw-populate-complete.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/53eda21ebe3e95fabad119bba24c4057/glfw-populate-build.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/53eda21ebe3e95fabad119bba24c4057/glfw-populate-configure.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/53eda21ebe3e95fabad119bba24c4057/glfw-populate-download.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/53eda21ebe3e95fabad119bba24c4057/glfw-populate-install.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/53eda21ebe3e95fabad119bba24c4057/glfw-populate-mkdir.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/53eda21ebe3e95fabad119bba24c4057/glfw-populate-patch.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/53eda21ebe3e95fabad119bba24c4057/glfw-populate-test.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/53eda21ebe3e95fabad119bba24c4057/glfw-populate-update.rule

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\445d407c73bc2bb80ab7c1732db50576\imgui-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\445d407c73bc2bb80ab7c1732db50576\imgui-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\445d407c73bc2bb80ab7c1732db50576\imgui-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\445d407c73bc2bb80ab7c1732db50576\imgui-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\445d407c73bc2bb80ab7c1732db50576\imgui-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\445d407c73bc2bb80ab7c1732db50576\imgui-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\445d407c73bc2bb80ab7c1732db50576\imgui-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\445d407c73bc2bb80ab7c1732db50576\imgui-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\5ff193d71c5986b3bd7d3466fc39fd7f\imgui-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\6182866f97e818b7bce121b19c136d6e\imgui-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\imgui-subbuild\CMakeFiles\imgui-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{61B33E08-5078-3C7F-943A-97414A48ED9D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

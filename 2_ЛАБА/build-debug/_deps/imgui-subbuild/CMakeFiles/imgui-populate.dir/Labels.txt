@@ -1,0 +1,14 @@
+# Target labels
+ imgui-populate
+# Source files and their labels
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/a24edf72c174129e4ee4f2baeb7da077/imgui-populate.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/cc89f2441c7674937abe7c4f0607a5ad/imgui-populate-complete.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-build.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-configure.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-download.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-install.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-mkdir.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-patch.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-test.rule
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-update.rule

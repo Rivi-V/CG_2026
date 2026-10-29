@@ -1,0 +1,10 @@
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SRC\SRC\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SC:/Users/F8902/kg/3_ЛАБА -BC:/Users/F8902/kg/3_ЛАБА/build-debug --check-stamp-file C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/glfw-build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

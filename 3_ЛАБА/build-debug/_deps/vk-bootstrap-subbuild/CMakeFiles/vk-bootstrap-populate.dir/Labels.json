@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/a30f1c54420a64aa96fe1201cb861eb5/vk-bootstrap-populate.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/550538be1ae8c40d36a40830c877e9d1/vk-bootstrap-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vk-bootstrap-populate"
+		],
+		"name" : "vk-bootstrap-populate"
+	}
+}

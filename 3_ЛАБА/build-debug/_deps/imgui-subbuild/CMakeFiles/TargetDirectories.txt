@@ -1,0 +1,3 @@
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate.dir
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/imgui-subbuild/CMakeFiles/ZERO_CHECK.dir

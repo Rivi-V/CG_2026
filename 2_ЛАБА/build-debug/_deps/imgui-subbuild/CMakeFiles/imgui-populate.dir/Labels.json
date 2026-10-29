@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/a24edf72c174129e4ee4f2baeb7da077/imgui-populate.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/cc89f2441c7674937abe7c4f0607a5ad/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/2_\u041b\u0410\u0411\u0410/build-debug/_deps/imgui-subbuild/CMakeFiles/b061ceeaed9996eb41e8ef4b19953b3f/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}

@@ -1,0 +1,10 @@
+^C:\USERS\F8902\KG\3_ЛАБА\BUILD-DEBUG\_DEPS\VK-BOOTSTRAP-SUBBUILD\CMAKEFILES\A30F1C54420A64AA96FE1201CB861EB5\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SC:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild -BC:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

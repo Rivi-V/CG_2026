@@ -1,0 +1,150 @@
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKEFILES\53EDA21EBE3E95FABAD119BBA24C4057\GLFW-POPULATE-MKDIR.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/tmp/glfw-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKEFILES\53EDA21EBE3E95FABAD119BBA24C4057\GLFW-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/tmp/glfw-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKEFILES\53EDA21EBE3E95FABAD119BBA24C4057\GLFW-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps\glfw-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/tmp/glfw-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKEFILES\53EDA21EBE3E95FABAD119BBA24C4057\GLFW-POPULATE-PATCH.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKEFILES\53EDA21EBE3E95FABAD119BBA24C4057\GLFW-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps\glfw-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKEFILES\53EDA21EBE3E95FABAD119BBA24C4057\GLFW-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps\glfw-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKEFILES\53EDA21EBE3E95FABAD119BBA24C4057\GLFW-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps\glfw-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKEFILES\53EDA21EBE3E95FABAD119BBA24C4057\GLFW-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\F8902\kg\2_ЛАБА\build-debug\_deps\glfw-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKEFILES\2C98C6296F7A7A1153E4A36C156DC522\GLFW-POPULATE-COMPLETE.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/Debug/glfw-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/Debug/glfw-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKEFILES\03769AC05DFF124C0462097DC296B153\GLFW-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\F8902\KG\2_ЛАБА\BUILD-DEBUG\_DEPS\GLFW-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SC:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild -BC:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild --check-stamp-file C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

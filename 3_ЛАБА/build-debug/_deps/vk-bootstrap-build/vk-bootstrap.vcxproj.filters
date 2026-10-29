@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vk-bootstrap-src\src\VkBootstrap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vk-bootstrap-src\src\VkBootstrap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vk-bootstrap-src\src\VkBootstrapDispatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vk-bootstrap-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0B96093D-BFB3-3636-881A-7278CBAA07E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3427B6F8-9FA8-3A91-96C2-E27B68C86F53}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+C:/Users/F8902/kg/2_ЛАБА/build-debug/CMakeFiles/vulkan-starter-app.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/CMakeFiles/shaders.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/CMakeFiles/INSTALL.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/CMakeFiles/ZERO_CHECK.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-build/CMakeFiles/uninstall.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-build/CMakeFiles/INSTALL.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/glfw-build/src/CMakeFiles/INSTALL.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vk-bootstrap-build/CMakeFiles/vk-bootstrap.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vk-bootstrap-build/CMakeFiles/INSTALL.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vk-bootstrap-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-build/CMakeFiles/INSTALL.dir
+C:/Users/F8902/kg/2_ЛАБА/build-debug/_deps/vulkanmemoryallocator-build/CMakeFiles/ALL_BUILD.dir

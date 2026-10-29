@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/vulkanmemoryallocator-populate"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/a19dcc0d0d8170c7f46b1127abc99c8c/vulkanmemoryallocator-populate.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/6fd1d9bb9a2f0474c0f67e7c686fe131/vulkanmemoryallocator-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/36d76587ccfae4ce5cfbf93f2afd7f55/vulkanmemoryallocator-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/36d76587ccfae4ce5cfbf93f2afd7f55/vulkanmemoryallocator-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/36d76587ccfae4ce5cfbf93f2afd7f55/vulkanmemoryallocator-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/36d76587ccfae4ce5cfbf93f2afd7f55/vulkanmemoryallocator-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/36d76587ccfae4ce5cfbf93f2afd7f55/vulkanmemoryallocator-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/36d76587ccfae4ce5cfbf93f2afd7f55/vulkanmemoryallocator-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/36d76587ccfae4ce5cfbf93f2afd7f55/vulkanmemoryallocator-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/36d76587ccfae4ce5cfbf93f2afd7f55/vulkanmemoryallocator-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vulkanmemoryallocator-populate"
+		],
+		"name" : "vulkanmemoryallocator-populate"
+	}
+}

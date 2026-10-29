@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\F8902\kg\3_ЛАБА\build-debug\_deps\vulkanmemoryallocator-subbuild\CMakeFiles\a19dcc0d0d8170c7f46b1127abc99c8c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C20BF47A-EBBF-38C1-86EE-E0DEF16F311E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

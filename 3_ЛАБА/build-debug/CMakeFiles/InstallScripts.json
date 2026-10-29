@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/cmake_install.cmake",
+		"C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vk-bootstrap-build/cmake_install.cmake",
+		"C:/Users/F8902/kg/3_\u041b\u0410\u0411\u0410/build-debug/_deps/vulkanmemoryallocator-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,14 @@
+# Target labels
+ vk-bootstrap-populate
+# Source files and their labels
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/a30f1c54420a64aa96fe1201cb861eb5/vk-bootstrap-populate.rule
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/550538be1ae8c40d36a40830c877e9d1/vk-bootstrap-populate-complete.rule
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-build.rule
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-configure.rule
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-download.rule
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-install.rule
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-mkdir.rule
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-patch.rule
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-test.rule
+C:/Users/F8902/kg/3_ЛАБА/build-debug/_deps/vk-bootstrap-subbuild/CMakeFiles/dc9afbb1c76e3d0406e4893ebe62dcce/vk-bootstrap-populate-update.rule
